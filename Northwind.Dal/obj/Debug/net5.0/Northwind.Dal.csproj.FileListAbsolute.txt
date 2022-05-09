@@ -1,0 +1,48 @@
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.deps.json
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\bin\Debug\net5.0\ref\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.pdb
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfoInputs.cache
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfo.cs
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CoreCompileInputs.cache
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\ref\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.pdb
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.AssemblyReference.cache
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.deps.json
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.runtimeconfig.json
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.runtimeconfig.dev.json
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\ref\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.pdb
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.AssemblyReference.cache
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfoInputs.cache
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfo.cs
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CoreCompileInputs.cache
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CopyComplete
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\ref\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.pdb
+D:\ASP.NET\GelecekVarlık\egitim kodları\Northwindd\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.genruntimeconfig.cache
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.deps.json
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.runtimeconfig.json
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.runtimeconfig.dev.json
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\ref\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.pdb
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.dll
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.AssemblyReference.cache
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfoInputs.cache
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfo.cs
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CoreCompileInputs.cache
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CopyComplete
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\ref\Northwind.Dal.dll
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.pdb
+D:\ASP.NET\GelecekVarlık\my github calısan\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.genruntimeconfig.cache

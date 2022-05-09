@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Northwind.Dal\\Concrete",
+    "\\Northwind.Dal\\Concrete\\Entityframework",
+    "\\Northwind.Dal\\Concrete\\Entityframework\\Context",
+    "\\Northwind.Interface"
+  ],
+  "PreviewInSolutionExplorer": false
+}
